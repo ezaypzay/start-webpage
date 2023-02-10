@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+    color: black;
+    background-color: gray;
+    text-align: center;
+  }
+  
+  table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+  }
+
+  #tooBig {
+    width: 1000px;
+    height: 500px;
+  }
